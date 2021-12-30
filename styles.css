@@ -1,7 +1,16 @@
 body {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins", "almarai", sans-serif;
+}
+
+.coming-soon {
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    color: rgb(133, 133, 133);
 }
