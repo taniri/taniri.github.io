@@ -15,3 +15,6 @@ body {
     font-weight: 500;
     color: rgb(133, 133, 133);
 }
+video {
+    width: 200px;
+}
